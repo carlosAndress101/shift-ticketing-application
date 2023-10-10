@@ -1,0 +1,33 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #5F47EF;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#lblNuevoTicket{
+    color: #ffff;
+    font-size: 4rem;
+}
+
+.btn{
+    width: 15rem;
+    height: 4rem;
+    border-radius: 6px;
+    border: none;
+    background: #63686F;
+    color: #ffff;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.btn:hover{
+    background: #f42859;
+}

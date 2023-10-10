@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90vw;
+    height: 30vh;
+    margin-left: 5rem;
+    text-align: center;
+}
+
+.pts{
+    color: #305baa;
+}
+
+.btn{
+    width: 15rem;
+    height: 2rem;
+    border-radius: 6px;
+    border: none;
+    background: #2863ff;
+    color: #ffff;
+    font-size: 20px;
+}
+
+.pantallaTikect{
+    color: #477580;
+    background-color: #c9f2fa;
+    border-radius: 5px;
+    height: 4rem;
+    width: 12rem;
+    padding-top: 2.5rem;
+}
+
+.btn:hover{
+    background: #f42859;
+}

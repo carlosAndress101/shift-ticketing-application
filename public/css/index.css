@@ -1,0 +1,67 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90vw;
+    height: 30vh;
+    margin-left: 5rem;
+    text-align: center;
+}
+
+.btn-publica{
+    border-radius: 6px;
+    border: none;
+    background: #2863ff;
+    color: #ffff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.btn-crearT{
+    border-radius: 6px;
+    border: none;
+    background: #2863ff;
+    color: #ffff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.btn-ingresar{
+    width: 11rem;
+    height: 2rem;
+    border-radius: 6px;
+    border: none;
+    background: #2863ff;
+    color: #ffff;
+    font-size: 20px;
+}
+
+.btn:hover{
+    background: #f42859;
+}
+
+.inp-text{
+    width: 11rem;
+    border-radius: 5px;
+    height: 1.5rem;
+    margin: 20px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}

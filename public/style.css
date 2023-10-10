@@ -1,0 +1,30 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.state-c{
+    color: green;
+}
+
+.state-d{
+    color: red;
+}
+
+.input-fom{
+    width: 8rem;
+    border-radius: 4px;
+}
+
+.btn-primary{
+    border: none;
+    width: 4rem;
+    height: 1.5rem;
+    background: #008CBA;
+    border-radius: 5px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 14%;
+}
